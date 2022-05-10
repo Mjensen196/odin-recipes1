@@ -1,2 +1,3 @@
 # odin-recipes1
-# Practice build recipes webpage.
+
+Practice recipe webpage.
