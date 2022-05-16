@@ -1,0 +1,20 @@
+/*style.css*/
+
+h1.recipe {
+    color:antiquewhite;
+    background-image: url(/Users/mattjensen/Desktop/chef.jpeg);
+    margin: auto;
+    width: 50%;
+}
+
+ a.hamsandwich {
+     color:chartreuse;
+ }
+
+ a.hotdog {
+     color:gold;
+ }
+
+ h1.hotdog {
+     background-image: url(/Users/mattjensen/Desktop/hotdog.jpeg);
+ }
