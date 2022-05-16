@@ -1,9 +1,9 @@
-h1.hotdog {
+h1 {
     border: 3px solid black;
     font-family:'Courier New', Courier, monospace;
     text-align:center;
 }
-img.hotdog{
+img{
     height: auto;
     width: 500px;
     opacity: 50%;
