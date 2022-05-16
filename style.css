@@ -1,6 +1,7 @@
 /*style.css*/
 
 h1.recipe {
+    border: 3px solid bisque;
     color:antiquewhite;
     background-image: url(/Users/mattjensen/Desktop/chef.jpeg);
     margin: auto;
@@ -15,6 +16,6 @@ h1.recipe {
      color:gold;
  }
 
- h1.hotdog {
-     background-image: url(/Users/mattjensen/Desktop/hotdog.jpeg);
+ *{
+     text-align:center;
  }
